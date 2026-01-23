@@ -1,5 +1,3 @@
-A comprehensive list of research internships in India
-
 # Research Internship in India
 
 A comprehensive list of research internships in India
