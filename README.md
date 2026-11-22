@@ -82,3 +82,6 @@ All are links for respective college programs, some of them are 2024 links, whic
 76. **NICPR** :- [Link](https://lnkd.in/dy9bczyF)
 77. **IMTECH** :- [Link](https://lnkd.in/dq2PAc36)
 
+## Related tools
+
+- [ProfScout](https://profscout.com): search professors by research field and university, useful when you want to email a professor directly about a research internship (freemium).
